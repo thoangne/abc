@@ -1,0 +1,23 @@
+
+.card{
+	width: 18rem; 
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    left: 20%;
+}
+
+.container{
+    text-align: center;
+}
+.table {
+    border-collapse: collapse; 
+    width: 100%; 
+    
+  } 
+  
+  .table th,
+  .table td {
+    border: 1px solid #ddd; 
+    padding: 8px; 
+  }
