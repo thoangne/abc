@@ -7,6 +7,12 @@
     left: 20%;
 }
 
+.card:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Tạo hiệu ứng bóng đổ khi rê chuột vào */
+  cursor: pointer; /* Con trỏ biến thành hình mũi tên trỏ */
+}
+
+
 .container{
     text-align: center;
 }
